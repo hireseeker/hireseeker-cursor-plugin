@@ -1,0 +1,22 @@
+{
+  "name": "hireseeker",
+  "version": "1.0.0",
+  "description": "Поиск IT-вакансий из Telegram и карьерных сайтов компаний через MCP. Без регистрации и API-ключей.",
+  "author": {
+    "name": "HireSeeker"
+  },
+  "homepage": "https://hireseeker.ru",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "jobs",
+    "vacancies",
+    "работа",
+    "вакансии",
+    "IT",
+    "Russian"
+  ],
+  "skills": "./skills/",
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/hireseeker/hireseeker-cursor-plugin"
+}
